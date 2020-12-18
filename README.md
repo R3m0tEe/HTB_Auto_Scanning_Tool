@@ -1,6 +1,6 @@
 # HTB_Auto_Scanning_Tool
 
-This auto scanning tool is a collection of Nmap, Gobuster and Nikto tools. 
+This auto scanning tool is a collection of Nmap, Gobuster and Nikto tools (3 in 1). 
 Mostly created to ease the scanning process of HTB boxes.
 
 # Setup
