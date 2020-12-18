@@ -5,5 +5,5 @@ Mostly created to ease the scanning process of HTB boxes.
 
 # Setup
 
-In order to run the scanner tool you have to run the "setup.sh" file to download and install the prerequisites.
+In order to run this scanner tool you have to run the "setup.sh" file to download and install the prerequisites.
 Note that you might need special permissions to run the file.
