@@ -2,14 +2,14 @@
 
 
 #------------------------------------------------------------------------------------------#
-#					 AUTOMATED TOOL FOR HTB MACHINES									    #
-#							 	   -														#
-#	               																			#
-#																							#
-#	/* Purpose: Automate HTB machine scanning												# 
-#	/* Author: R3m0tEe																		#
-#	/* Last updated on: Fri December, 18 2020												#
-#	/* Github: @https://github.com/R3m0tEe													#
+#					 AUTOMATED TOOL FOR HTB MACHINES		   #
+#				              						   #
+#	               									   #
+#						       					   #
+#	/* Purpose: Automate HTB machine scanning					   # 
+#	/* Author: R3m0tEe								   #
+#	/* Last updated on: Fri December, 18 2020				           #
+#	/* Github: @https://github.com/R3m0tEe	             				   #
 #------------------------------------------------------------------------------------------#
                   
 
